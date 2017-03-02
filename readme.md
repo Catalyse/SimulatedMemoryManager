@@ -1,4 +1,4 @@
-# OS Lab 3 // May, Taylor - ID: 101516431
+# OS Lab 3 // May, Taylor
 
 ## Introduction
 
